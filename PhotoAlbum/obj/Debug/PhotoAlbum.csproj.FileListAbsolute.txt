@@ -1,0 +1,10 @@
+C:\Users\Mik\Desktop\Technical Showcase\PhotoAlbum\bin\Debug\PhotoAlbum.exe.config
+C:\Users\Mik\Desktop\Technical Showcase\PhotoAlbum\bin\Debug\PhotoAlbum.exe
+C:\Users\Mik\Desktop\Technical Showcase\PhotoAlbum\bin\Debug\PhotoAlbum.pdb
+C:\Users\Mik\Desktop\Technical Showcase\PhotoAlbum\obj\Debug\PhotoAlbum.csprojAssemblyReference.cache
+C:\Users\Mik\Desktop\Technical Showcase\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.CoreCompileInputs.cache
+C:\Users\Mik\Desktop\Technical Showcase\PhotoAlbum\obj\Debug\PhotoAlbum.exe
+C:\Users\Mik\Desktop\Technical Showcase\PhotoAlbum\obj\Debug\PhotoAlbum.pdb
+C:\Users\Mik\Desktop\Technical Showcase\PhotoAlbum\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mik\Desktop\Technical Showcase\PhotoAlbum\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mik\Desktop\Technical Showcase\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.CopyComplete
